@@ -1,0 +1,4 @@
+.env
+semgrep.json
+gitleaks.json
+relatorios/
